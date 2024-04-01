@@ -4,7 +4,7 @@
 
 Faxcar é um site de portfólio totalmente responsivo, para todos os dispositivos, usando HTML, CSS e JavaScript.  
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://github.com/SorayaCop/faxcar.git"><strong>➥ Live Demo</strong></a>
 
  </div>
 
