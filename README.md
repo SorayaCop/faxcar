@@ -2,7 +2,7 @@
 
 <h2 align="center">Faxcar - Oficina Mecânica</h2>
 
-Faxcar é um site de portfólio totalmente responsivo, para todos os dispositivos, usando HTML, CSS e JavaScript.  
+Website estático totalmente responsivo desenvolvido para oficinas mecânicas como portifolio.  
 
 <a href="https://sorayacop.github.io/faxcar/"><strong>➥ Live Demo</strong></a>
 
